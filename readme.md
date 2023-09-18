@@ -1,3 +1,8 @@
+## Como foi feito?
+Criei uma class para os Herois para guardar informçaões
+Cirei um switch case para cada heroi com seu ataque
+E no final um console.log para mostrar o tipo e o ataque
+Depois adicionei as informações de cada heroi
 # 3️⃣ Escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
